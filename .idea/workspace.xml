@@ -4,7 +4,9 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12bbf1c-503c-4f9c-a396-68c539d34ba3" name="Changes" comment="added app 3 for review 3" />
+    <list default="true" id="d12bbf1c-503c-4f9c-a396-68c539d34ba3" name="Changes" comment="added app 4 for review 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791272499444</updated>
-      <workItem from="1791272500452" duration="8841000" />
+      <workItem from="1791272500452" duration="13895000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -128,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791353372628</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added app 4 for review 4">
+      <option name="closed" value="true" />
+      <created>1791358747044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791358747044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
     <MESSAGE value="added app 1 for review 1" />
     <MESSAGE value="added app 2 for review 2" />
     <MESSAGE value="added app 3 for review 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added app 3 for review 3" />
+    <MESSAGE value="added app 4 for review 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="added app 4 for review 4" />
   </component>
 </project>
